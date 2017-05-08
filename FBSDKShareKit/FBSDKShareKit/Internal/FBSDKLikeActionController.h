@@ -19,7 +19,7 @@
 #import <Foundation/Foundation.h>
 #import <UIKit/UIKit.h>
 
-#import <FBSDKCoreKit/FBSDKMacros.h>
+#import "FBSDKMacros.h"
 
 #import <FBSDKShareKit/FBSDKLikeObjectType.h>
 

@@ -18,7 +18,7 @@
 
 #import <UIKit/UIKit.h>
 
-#import <FBSDKCoreKit/FBSDKMacros.h>
+#import "FBSDKMacros.h"
 
 #import <FBSDKShareKit/FBSDKLikeObjectType.h>
 #import <FBSDKShareKit/FBSDKLiking.h>

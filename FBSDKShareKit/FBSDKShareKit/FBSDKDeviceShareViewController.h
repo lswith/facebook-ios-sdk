@@ -18,7 +18,7 @@
 
 #import <UIKit/UIKit.h>
 
-#import <FBSDKCoreKit/FBSDKDeviceViewControllerBase.h>
+#import "FBSDKDeviceViewControllerBase.h"
 
 #import <FBSDKShareKit/FBSDKSharingContent.h>
 

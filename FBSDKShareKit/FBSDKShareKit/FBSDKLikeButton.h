@@ -18,7 +18,7 @@
 
 #import <UIKit/UIKit.h>
 
-#import <FBSDKCoreKit/FBSDKButton.h>
+#import "FBSDKButton.h"
 
 #import <FBSDKShareKit/FBSDKLikeObjectType.h>
 #import <FBSDKShareKit/FBSDKLiking.h>

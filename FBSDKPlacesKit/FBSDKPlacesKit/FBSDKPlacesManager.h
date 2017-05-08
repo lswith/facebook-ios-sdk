@@ -19,7 +19,7 @@
 @import CoreLocation;
 @import Foundation;
 
-#import <FBSDKCoreKit/FBSDKCoreKit.h>
+#import "FBSDKCoreKit.h"
 
 #import "FBSDKPlacesKitConstants.h"
 

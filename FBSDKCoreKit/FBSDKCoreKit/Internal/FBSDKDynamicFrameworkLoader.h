@@ -20,7 +20,7 @@
 #import <Foundation/Foundation.h>
 #import <QuartzCore/QuartzCore.h>
 
-#import <FBSDKCoreKit/FBSDKMacros.h>
+#import "FBSDKMacros.h"
 
 /**
 

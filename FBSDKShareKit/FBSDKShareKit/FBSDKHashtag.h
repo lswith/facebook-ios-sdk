@@ -18,7 +18,7 @@
 
 #import <Foundation/Foundation.h>
 
-#import <FBSDKCoreKit/FBSDKCopying.h>
+#import "FBSDKCopying.h"
 
 /**
   Represents a single hashtag that can be used with the share dialog.

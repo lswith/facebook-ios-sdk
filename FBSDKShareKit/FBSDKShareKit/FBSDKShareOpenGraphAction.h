@@ -18,7 +18,7 @@
 
 #import <Foundation/Foundation.h>
 
-#import <FBSDKCoreKit/FBSDKCopying.h>
+#import "FBSDKCopying.h"
 
 #import <FBSDKShareKit/FBSDKShareOpenGraphObject.h>
 #import <FBSDKShareKit/FBSDKShareOpenGraphValueContainer.h>
